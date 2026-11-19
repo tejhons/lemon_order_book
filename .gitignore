@@ -1,0 +1,8 @@
+*.un~
+*.un
+*~
+*.env
+*.exe
+*.dll
+build/
+
