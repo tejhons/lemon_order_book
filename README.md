@@ -1,3 +1,3 @@
-## Lemon Order Book :chart: :lemon:
+## Lemon Order Book 📈
 
 - Coming soon...
